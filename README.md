@@ -9,7 +9,7 @@ With the unsuperviesed learning model, K-means algorithm, the project clustered 
 
 | original data | PCA'd                     | elbow curves |
 |---------------|---------------------------|-------------|
-| 7 features    | 3 features | ![Elbow curves comparison](/images/elbowCurvesComparison.png) |
+| 7 features    | 3 features     | ![Elbow curves comparison](/images/elbowCurvesComparison.png) |
 
 ## Analysis of the necessity for this datase
 For this dataset, using fewer features (3 instead of 7) with the same methods for clustering the data (K-Means) doesn't make a significant change in the final clusters, as shown with the same clustering results they give.
