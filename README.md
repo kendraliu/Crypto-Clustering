@@ -15,8 +15,7 @@ The number of clusters are obtained through the elbow method.
 | 7 features | 3 features | 
 | ![](/images/Kmeans.png) | ![](/images/pcaKmeans.png) |
 
-| elbow curves |
-|-------------|
+
 | ![Elbow curves comparison](/images/elbowCurvesComparison.png) |
 
 ## Analysis of the necessity of PCA for this datase
