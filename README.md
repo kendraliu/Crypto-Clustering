@@ -6,7 +6,9 @@ This project examined price changing data of 41 cryptocurrencies.
 ![Cryptocurrency price changes](/images/standardizedData.png)
 
 ### Clustering
-With the unsuperviesed learning model, K-means algorithm, the project clustered the data points of the standardized data and the standardized data that has been processed by PCA with three features. The number of clusters are obtained through the elbow method.
+With the unsuperviesed learning model, K-means algorithm, the project compared the clustering of the data points using all of the features with the clustering using only 3 features that are determined by PCA. 
+
+The number of clusters are obtained through the elbow method.
 
 | original data | PCA | elbow curves |
 |-------------|-------------|-------------|
