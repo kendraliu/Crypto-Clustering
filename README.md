@@ -15,8 +15,9 @@ The number of clusters are obtained through the elbow method.
 | 7 features | 3 features | 
 | ![](/images/Kmeans.png) | ![](/images/pcaKmeans.png) |
 
-
- ![Elbow curves comparison](/images/elbowCurvesComparison.png) 
+| elbow curves |
+|-------------|
+| ![Elbow curves comparison](/images/elbowCurvesComparison.png) |
 
 ## Analysis of the necessity of PCA for this datase
 For this dataset, using fewer features (3 instead of 7) with the same methods for clustering the data (K-Means) doesn't make a significant change in the final clusters, as shown with the same clustering results they give. This is possibly due to the small size of the dataset.
