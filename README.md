@@ -1,4 +1,4 @@
-# Crypto-Clustering
+# Cryptocurrency Clustering with K-Means Model
 
 ## Overview
 This project examined price changing data of 41 cryptocurrencies.
